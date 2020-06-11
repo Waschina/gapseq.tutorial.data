@@ -4,7 +4,7 @@
 
 The intestinal bacterium *Eubacterium rectale* is known to be able to use acetate as energy source under anaerobic conditions and thereby forms butyrate as end product ([Rivère *et al.* (2015) Appl Envrion Microbiol](https://pubmed.ncbi.nlm.nih.gov/26319874/)). Acetate is a common fermentation end product in a number of different other intestinal bacteria, including Bifidobacteria (e.g. *Bifidobacterium longum*). In this tutorial, genome-scale models for *E. rectale* and *B. longum* are reconstructed using **gapseq**. Subsequently, the two models are simulated in co-growth and their interaction is investigated.
 
-
+*NOTE: All intermediate files produced by the commands below are stored at the github repository (https://github.com/Waschina/gapseq.tutorial.data), which you could download/clone if you wish to start not at the beginning but at a later step of this tutorial.*
 
 ##### Input
 
