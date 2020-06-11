@@ -59,7 +59,7 @@ modelB="bilo"
 
 # If not set already (e.g via .bashrc): set the path to gapseq
 # There are different ways to do this. One example:
-gapseq=~/workspace/2018/gapseq/./gapseq
+gapseq=~/path/to/gapseq/./gapseq
 
 # Reaction & Pathway prediction
 $gapseq find -p all -b 200 $modelA.fna.gz
