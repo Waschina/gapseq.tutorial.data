@@ -89,7 +89,7 @@ NOTE: If you repeat the gapfilling step, gapseq will <u>not</u> overwrite the fi
 Here, we will use the R-Package `BacArena` to perform an agent-based simulation for the co-growth of *B. longum* and *E. rectale*. The following code-block shows the R-source code for a simple community metabolism simulation.
 
 ```R
-# Load R-pakages
+# Load R-packages
 library(BacArena)
 library(data.table)
 
