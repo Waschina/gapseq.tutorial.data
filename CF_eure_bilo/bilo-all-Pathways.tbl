@@ -2714,8 +2714,8 @@ PWY3	leucyl aminopeptidase test	false	0	0	1	0
 PWY4	arginine deiminase test	false	0	0	1	0	
 2FLHYD	2-fucosyllactose degradation	false	50	0	1	0	2FLABCTRANSPORT 
 LNT-DEGRADATION	Lacto-N-tetraose degradation	false	75	0	1	0	rxn2 rxn3 rxn4 
+FUCDEGRA-NP	L-Fucose degradation (non-phosphorylating)	false	40	1	0	0	LACALDRED 
 BIFIDOSHUNT2	Bifidobacterium shunt II	true	93	0	2	2	FRUCTOSE-6-PHOSPHATE-PHOSPHOKETOLASE-RXN ACETATEKIN-RXN TRANSALDOL-RXN 1TRANSKETO-RXN RIB5PISOM-RXN RIBULP3EPIM-RXN PHOSPHOKETOLASE-RXN GAPOXNPHOSPHN-RXN PHOSGLYPHOS-RXN RXN-15513 2PGADEHYDRAT-RXN PEPDEPHOS-RXN L-LACTATE-DEHYDROGENASE-RXN PGLUCISOM-RXN GLUCOKIN-RXN 
-FUCDEGRA-NP	L-Fucose degradation 	false	0	0	1	0	
 MASS-SYNTHESIS	massetolide A biosynthesis	false	0	0	0	0	
 VISC-SYNTHESIS	viscosin biosynthesis	false	0	0	0	0	
 AGMA-TRANSP	Agmatine Transport	false	0	0	0	0	
@@ -2739,4 +2739,12 @@ EXC-STARCH-N27	Extracellular starch(27n) degradation	false	40	0	0	0	alpha-amylas
 EXO-GALACTAN_DEG	Extracellular galactan(2n) degradation	true	100	0	0	0	galactanase 
 FOLATE-SYN-GS1	Folate biosynthesis from GTP and 4-aminobenzoate via dihydropterin-3-triphosphate	true	66	0	1	1	GTP-CYCLOHYDRO-I-RXN H2PTEROATESYNTH-RXN DIHYDROFOLATESYNTH-RXN DHFR 
 THIAZOLE-SYN-GS1	thiazole biosynthesis I (facultative anaerobic bacteria) with tautomerase	false	75	2	0	0	THIAZOLSYN2-RXN DXS-RXN RXN-9789 RXN-14382 
+F420-3-BIOSYN-ARCHAEA	F420 Biosynthesis until 3 glutamine residues	false	12	0	1	1	RXN-21089 
+LDH-ETF-PWY	Electron bifurcating LDH/Etf complex	false	0	0	0	0	
+H4SPT-SYN	H4SPT-SYN	false	0	0	0	0	
+NA-TRANSLOCATING-RNF	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex	false	0	0	0	0	
+NA-F0F1ATPSYN	Na(+)-translocating ATPase	false	0	0	0	0	
+INULIN-DEGRADATION-EXO	Inulin degradation(11xFru,1xGlc) (extracellular)	false	0	2	1	0	
+TYR-DEG-4HPAC	Tyrosine degradtion to 4-hydroxyphenylacetate	false	33	0	0	0	RXN-5821 
+TYR-DEG-4HPACALD	Tyrosine degradation to 4-hydroxyphenylacetaldehyd via tyramine	false	33	0	0	0	RXN-5821 
 |NADPHOS-DEPHOS-PWY|	NAD phosphorylation and dephosphorylation	false	75	0	2	1	NAD-KIN-RXN TRANS-RXN0-277 RXN-5822 

@@ -76,6 +76,7 @@ o30833	3.a.1	mannitol	EX_cpd00314_e0	rxn13853	gnl|tc-db|o30833|3.a.1.1.5	27.344	
 o30833	3.a.1	sorbitol	EX_cpd00588_e0	rxn29779	gnl|tc-db|o30833|3.a.1.1.5	27.344	1.28e-24	100	99	NC_012781.1 [Eubacterium] rectale ATCC 33656, complete sequence	460223	460972
 o32220	3.a.3	copper		rxn05528,rxn08271,rxn10481,rxn27349,rxn29072,rxn38723,rxn39047	gnl|tc-db|o32220|3.a.3.5.18	42.263	7.30e-171	544	91	NC_012781.1 [Eubacterium] rectale ATCC 33656, complete sequence	560570	562843
 o34362	3.a.1	thiamine		rxn05177,rxn09297	gnl|tc-db|o34362|3.a.1.30.1	30.693	5.01e-73	251	94	NC_012781.1 [Eubacterium] rectale ATCC 33656, complete sequence	2880273	2878786
+o34521	4.a.1	n-acetylglucosamine		rxn05485,rxn08041	gnl|tc-db|o34521|4.a.1.1.7	44.376	4.47e-94	308	98	NC_012781.1 [Eubacterium] rectale ATCC 33656, complete sequence	2807475	2806027
 o34572	3.a.1	thiamine		rxn05177,rxn09297	gnl|tc-db|o34572|3.a.1.30.1	23.810	3.91e-13	65.9	95	NC_012781.1 [Eubacterium] rectale ATCC 33656, complete sequence	2878553	2877819
 o34900.2	3.a.1	cysteine	EX_cpd00084_e0	rxn05237,rxn08280,rxn08281,rxn30473	gnl|tc-db|o34900.2|3.a.1.3.13	52.066	4.06e-72	236	98	NC_012781.1 [Eubacterium] rectale ATCC 33656, complete sequence	1371450	1372166
 o34931.2	3.a.1	cysteine	EX_cpd00084_e0	rxn05237,rxn08280,rxn08281,rxn30473	gnl|tc-db|o34931.2|3.a.1.3.13	32.727	1.35e-27	107	95	NC_012781.1 [Eubacterium] rectale ATCC 33656, complete sequence	1370819	1371421
@@ -112,6 +113,7 @@ p07109	3.a.1	histidine	EX_cpd00119_e0	rxn05164,rxn08718	gnl|tc-db|p07109|3.a.1.3
 p07117	2.a.121,2.a.21	proline	EX_cpd00129_e0	rxn05221,rxn05638,rxn09191,rxn09192,rxn12451,rxn34526,rxn34527	gnl|tc-db|p07117|2.a.21.2.1	38.523	5.61e-78	263	97	NC_012781.1 [Eubacterium] rectale ATCC 33656, complete sequence	2265331	2266773
 p07117	2.a.121,2.a.21	sodium		rxn10576,rxn13753,rxn25832,rxn27363,rxn30509,rxn37569,rxn37570,rxn37571	gnl|tc-db|p07117|2.a.21.2.1	38.523	5.61e-78	263	97	NC_012781.1 [Eubacterium] rectale ATCC 33656, complete sequence	2265331	2266773
 p07821	3.a.1	ferrichrome		rxn05188,rxn08493	gnl|tc-db|p07821|3.a.1.14.3	31.660	1.55e-44	157	99	NC_012781.1 [Eubacterium] rectale ATCC 33656, complete sequence	1817367	1816591
+p09323	4.a.1	n-acetylglucosamine		rxn05485,rxn08041	gnl|tc-db|p09323|4.a.1.1.2	35.147	1.50e-110	363	93	NC_012781.1 [Eubacterium] rectale ATCC 33656, complete sequence	1309257	1311290
 p0a0d6	4.a.3	lactose	EX_cpd00208_e0	rxn10865	gnl|tc-db|p0a0d6|4.a.3.1.1	30.000	3.24e-09	49.7	97	NC_012781.1 [Eubacterium] rectale ATCC 33656, complete sequence	3429950	3429651
 p0a2i7	3.a.1	histidine	EX_cpd00119_e0	rxn05164,rxn08718	gnl|tc-db|p0a2i7|3.a.1.3.1	29.787	5.42e-17	76.6	89	NC_012781.1 [Eubacterium] rectale ATCC 33656, complete sequence	1370813	1371340
 p0a2i9	3.a.1	histidine	EX_cpd00119_e0	rxn05164,rxn08718	gnl|tc-db|p0a2i9|3.a.1.3.1	28.804	7.07e-19	82.0	82	NC_012781.1 [Eubacterium] rectale ATCC 33656, complete sequence	1370909	1371421
