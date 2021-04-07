@@ -39,6 +39,10 @@ b3si05	3.a.3	sodium		rxn05622,rxn34391,rxn34513	gnl|tc-db|b3si05|3.a.3.1.9	28.90
 b7gu58	2.a.28	sodium		rxn10576,rxn13753,rxn25832,rxn27363,rxn30509,rxn37569,rxn37570,rxn37571	gnl|tc-db|b7gu58|2.a.28.2.6	95.614	0.0	645	97	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	936719	935694
 b7l6n0	3.a.1	sulfate	EX_cpd00681_e0	rxn05153,rxn09276,rxn29239	gnl|tc-db|b7l6n0|3.a.1.19.4	33.708	1.02e-21	89.4	97	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	1661187	1661705
 b7l6n0	3.a.1	thiosulfate		rxn05176,rxn09329,rxn34412,rxn34536	gnl|tc-db|b7l6n0|3.a.1.19.4	33.708	1.02e-21	89.4	97	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	1661187	1661705
+baig_closv	2.a.1	chenodeoxycholate		rxn40935	sp|p32369|baig_closv|2.a.1.3.13	24.460	4.10e-15	74.7	85	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	718282	717086
+baig_closv	2.a.1	cholate	EX_cpd00526_e0	rxn47305	sp|p32369|baig_closv|2.a.1.3.13	24.460	4.10e-15	74.7	85	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	718282	717086
+baig_closv	2.a.1	deoxycholate		rxn43262	sp|p32369|baig_closv|2.a.1.3.13	24.460	4.10e-15	74.7	85	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	718282	717086
+baig_closv	2.a.1	lithocholate		rxn90083	sp|p32369|baig_closv|2.a.1.3.13	24.460	4.10e-15	74.7	85	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	718282	717086
 btst_ecoli	2.a.114	pyruvate		rxn05469,rxn09217,rxn09717,rxn09832	sp|p39396|btst_ecoli|2.a.114	43.804	9.54e-131	424	93	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	700071	698035
 c4b4v9	2.a.1	l-arabinose		rxn05500,rxn08140,rxn08141	gnl|tc-db|c4b4v9|2.a.1.1.116	36.192	5.69e-73	248	97	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	2040282	2038888
 c4qvv9	2.a.1	glucose	EX_cpd00027_e0,EX_cpd00079_e0	rxn05573,rxn08616,rxn09679,rxn09875,rxn08617	gnl|tc-db|c4qvv9|2.a.1.1.125	25.577	7.82e-35	136	88	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	2040210	2038831

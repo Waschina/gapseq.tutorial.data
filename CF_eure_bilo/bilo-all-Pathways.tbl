@@ -1765,6 +1765,9 @@ LDH-ETF-PWY	Electron bifurcating LDH/Etf complex	false	0	0	0	0
 NA-TRANSLOCATING-RNF	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex	false	0	0	0	0	
 NA-F0F1ATPSYN	Na(+)-translocating ATPase	true	100	0	0	0	NA-F0F1ATPSYNTHASE 
 TYR-DEG-4HPAC	L-Tyrosine degradation to 4-hydroxyphenylacetate via tyramine	false	33	0	0	0	RXN-5821 
+PYR-ACCOA-FROX	Pyruvate-ferredoxin oxidorectase to acetyl-CoA	false	0	0	0	0	
+LWP-GS	Ljungdahl-Wood pathway (gapseq)	false	40	1	2	0	METHENYLTHFCYCLOHYDRO-RXN FORMATETHFLIG-RXN METHYLENETHFDEHYDROG-NADP-RXN 
+BAI-PWY	Bile acid 7α-dehydroxylation	false	0	0	2	0	
 |NADPHOS-DEPHOS-PWY|	NAD phosphorylation and dephosphorylation	false	75	0	2	1	NAD-KIN-RXN TRANS-RXN0-277 RXN-5822 
 PWY3	leucyl aminopeptidase test	false	0	0	1	0	
 PWY4	arginine deiminase test	false	0	0	1	0	
