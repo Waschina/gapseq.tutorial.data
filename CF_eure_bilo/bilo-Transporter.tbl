@@ -1,3 +1,5 @@
+# gapseq version: 1.1 60d6ef1
+# Transporter sequence DB md5sum: da16924 (2021-04-20)
 id	tc	sub	exid	rea	qseqid	pident	evalue	bitscore	qcovs	stitle	sstart	send
 658118070	3.a.1	zinc		rxn05150,rxn09388,rxn09392,rxn13918	gnl|tc-db|658118070|3.a.1.15.16	29.703	5.38e-22	90.1	99	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	464807	464220
 a0pjk1	2.a.21	glucose	EX_cpd00027_e0,EX_cpd00079_e0	rxn05573,rxn08616,rxn09679,rxn09875,rxn08617	gnl|tc-db|a0pjk1|2.a.21.3.15	23.956	1.31e-15	77.0	87	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	1582702	1581206
@@ -634,6 +636,9 @@ x5gwn5	3.d.10	iron	EX_cpd10516_e0	rxn05555,rxn08472	gnl|tc-db|x5gwn5|3.d.10.1.6	
 x5gwn5	3.d.10	iron	EX_cpd10516_e0	rxn05195,rxn08477,rxn34370	gnl|tc-db|x5gwn5|3.d.10.1.6	29.268	8.02e-32	120	75	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	742953	743687
 x5gwn5	3.d.10	succinate	EX_cpd00036_e0,EX_cpd00036_e0	rxn10138	gnl|tc-db|x5gwn5|3.d.10.1.6	29.268	8.02e-32	120	75	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	742953	743687
 x5h3p0	3.d.10	succinate	EX_cpd00036_e0,EX_cpd00036_e0	rxn10138	gnl|tc-db|x5h3p0|3.d.10.1.6	39.831	8.19e-131	420	98	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	740917	742647
+yiho_ecoli	2.a.2	sulfoquinovose	EX_cpd22614_e0	rxn90101	sp|p32136|yiho_ecoli|2.a.2.3.15	23.541	6.30e-21	92.8	99	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	790020	788542
+yihp_ecoli	2.a.2	2,3-dihydroxypropane-1-sulfonate	EX_cpd31356_e0	rxn90102	sp|p32137|yihp_ecoli|2.a.2.3.9	21.935	1.40e-21	94.7	95	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	789966	788587
+yihp_salty	2.a.2	2,3-dihydroxypropane-1-sulfonate	EX_cpd31356_e0	rxn90102	sp|q9l7r5|yihp_salty|2.a.2.3.9	21.505	7.87e-21	92.4	96	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	789966	788587
 o66515|p54146|p69681|q79vf1	alternative	ammonia	cpd00013[e0]	rxn05466,rxn08986,rxn08987,rxn09736,rxn09835,rxn11158,rxn13364,rxn29187,rxn29241,rxn29242	gnl|tc-db|q79vf1|1.a.11.1.3	55.069	2.90e-92	301	98	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	1383465	1382200
 p39518|p69451|q57079|q9v0a4|q9xia9	alternative	coa	cpd00010[e0]	rxn10832,rxn13243,rxn13244,rxn31203,rxn32206,rxn32207,rxn32211	gnl|tc-db|q9v0a4|3.b.1.1.5	50.297	1.20e-150	474	95	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	1923603	1925072
 a2rka7	alternative	cytidine	cpd00367[e0]	rxn05198,rxn08289,rxn08290,rxn10857,rxn10997,rxn12413,rxn13338	gnl|tc-db|a2rka7|3.a.1.2.17	35.050	1.60e-83	279	98	NC_004307.2 Bifidobacterium longum NCC2705, complete sequence	2115913	2117421
