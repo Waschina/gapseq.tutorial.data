@@ -1,4 +1,4 @@
-# gapseq version: 1.1 60d6ef1
+# gapseq version: 1.1 2f27651
 # Sequence DB md5sum: 1139b8e (2021-06-02, Bacteria)
 ID	Name	Prediction	Completeness	VagueReactions	KeyReactions	KeyReactionsFound	ReactionsFound
 |12DICHLORETHDEG-PWY|	1,2-dichloroethane degradation	false	0	0	1	0	
@@ -48,7 +48,7 @@ ID	Name	Prediction	Completeness	VagueReactions	KeyReactions	KeyReactionsFound	Re
 |CHOLINE-BETAINE-ANA-PWY|	choline degradation I	false	0	0	0	0	
 |CITRULLINE-DEG-PWY|	L-citrulline degradation	true	100	0	1	1	ORNCARBAMTRANSFER-RXN RXN-14196 
 |COA-PWY|	coenzyme A biosynthesis I (prokaryotic)	true	75	0	1	1	PANTEPADENYLYLTRAN-RXN P-PANTOCYSDECARB-RXN P-PANTOCYSLIG-RXN 
-|CODH-PWY|	reductive acetyl coenzyme A pathway I (homoacetogenic bacteria)	false	40	1	2	0	METHENYLTHFCYCLOHYDRO-RXN FORMATETHFLIG-RXN METHYLENETHFDEHYDROG-NADP-RXN 
+|CODH-PWY|	reductive acetyl coenzyme A pathway I (homoacetogenic bacteria)	false	30	0	2	0	METHENYLTHFCYCLOHYDRO-RXN FORMATETHFLIG-RXN METHYLENETHFDEHYDROG-NADP-RXN 
 |CRNFORCAT-PWY|	creatinine degradation I	false	0	0	0	0	
 |CYANCAT-PWY|	cyanate degradation	false	0	0	1	0	
 |CYCLOHEXANOL-OXIDATION-PWY|	cyclohexanol degradation	false	0	0	1	0	
@@ -1822,6 +1822,7 @@ LWP-GS	Ljungdahl-Wood pathway (gapseq)	false	30	0	2	0	METHENYLTHFCYCLOHYDRO-RXN 
 BAI-PWY	Bile acid 7alpha-dehydroxylation	false	37	0	2	2	RXN-Bai3 RXN-Bai6 RXN-Bai7 
 QUERCETIN-ANAERO-DEG	Anaerobe quercetin degradation	false	0	1	1	0	
 PHLOROGLUCINOL-DEG-PWY	phloroglucinol degradation (anaerobic)	false	50	1	1	0	R8-RXN 
+PWY-8086-GS	(S)-lactate fermentation to propanoate	false	22	0	1	1	RXN-19738 L-LACTATE-DEHYDROGENASE-RXN 
 |NADPHOS-DEPHOS-PWY|	NAD phosphorylation and dephosphorylation	false	33	0	2	0	NAD-KIN-RXN 
 PWY3	leucyl aminopeptidase test	false	0	0	1	0	
 PWY4	arginine deiminase test	false	0	0	1	0	
